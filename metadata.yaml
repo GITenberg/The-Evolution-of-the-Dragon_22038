@@ -1,0 +1,34 @@
+_repo: The-Evolution-of-the-Dragon_22038
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Grafton Elliot, Sir
+    alias: Smith, G. Elliot (Grafton Elliot), Sir
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '25053'
+    url: http://www.gutenberg.org/2009/agents/25053
+description: ''
+gutenberg_issued: '2007-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22038'
+  lccn: '19014547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rain gods -- Egypt'
+- !lcc 'BL'
+- !lcsh 'Incense'
+- !lcsh 'Mythology, Egyptian'
+- !lcsh 'Mythology'
+- !lcsh 'Dragons'
+- !lcsh 'Aphrodite (Greek deity)'
+tableOfContents: Incense and libations -- Dragons and rain gods -- The birth of Aphrodite.
+title: The Evolution of the Dragon
+url: http://www.gutenberg.org/ebooks/22038
